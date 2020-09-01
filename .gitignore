@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+backup/eb_utils.py
+catalog_of_EBs_with_SC.csv
+catalog_of_EBs_with_SC.csv
