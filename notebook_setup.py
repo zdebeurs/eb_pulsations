@@ -55,7 +55,7 @@ sns.set(context='paper',
 	"axes.linewidth": 2,
 	"lines.linewidth": 2, 
 	"figure.figsize": (16,6), 
-	"figure.dpi": 100, 
+	"figure.dpi": 150, 
 	"savefig.dpi": 200,
 	"text.usetex": True, 
 	"axes.labelsize": 30, ## fontsize of the x any y labels
